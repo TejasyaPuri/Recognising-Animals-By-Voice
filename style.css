@@ -1,0 +1,39 @@
+body
+{
+    background-color:rgb(142, 182, 184);
+    font-family: Roboto Condensed;
+}
+.header_div
+{
+    background-color: whitesmoke;
+    color:black;
+}
+.header_div p
+{
+    font-family: Edu SA Beginner;
+    color:black;
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button
+{
+font-family: Roboto;
+font-weight: bolder;
+letter-spacing: 3px;
+margin-top: 30px;
+width: 130px;
+}
+.copyright-footer
+{
+    position: fixed;
+    color:dimgray;
+    font-weight: bolder;
+    bottom: 0;
+    width: 100%;
+    font-size: 18px;
+    background-color: white;
+    text-align: center;
+    line-height: 3;
+    text-shadow: 5px 5px 5px rgb(151, 149, 149);
+}
